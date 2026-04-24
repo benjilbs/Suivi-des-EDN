@@ -3,5 +3,7 @@ Application macOS de suivi de révisions pour les EDN. Gestion des 367 items, r�
 Application encore en cours de développement. Prochaine mise à jour: ajout des filtres de tous les collèges.
 Pour tout problème ou retour sur l'application n'hésitez pas à me contacter: instagram -> benji_lbs
 
+Pour plus d'informations sur les fonctionnalités de l'application, je vous invite à vous rendre dans la partie "releases".
+
 Pour télécharger la dernière version de l'application -> voir releases
 Si mise à jour: désinstallez la dernière version et remplacez la par la nouvelle. Vous ne perdrez pas vos données.
