@@ -1,5 +1,5 @@
 [README.md](https://github.com/user-attachments/files/27082051/README.md)
-# 📚 EDN Planner
+# 📚 Suivi des EDN
 
 > Application macOS de suivi et de révision pour les EDN (Épreuves Dématérialisées Nationales).
 
