@@ -16,7 +16,11 @@
 
 Créé par Benjamin avec l'IA Claude
 
-POUR INSTALLER L'APPLICATION, VOIR L'ONGLET RELEASE À DROITE.
+## ⬇️ Téléchargement
+
+[**Télécharger EDN Planner v1.0.0**](https://github.com/TON_USERNAME/EDNPlanner/releases/latest)
+
+> Dézipper et glisser EDNPlanner.app dans ton dossier Applications.
 
 ---
 
