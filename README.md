@@ -115,7 +115,7 @@ Hésitez pas à me faire des retours si vous avez installé l'application. Mon i
 
 Cette application est un **outil d'organisation personnelle**. Elle ne remplace pas les ressources officielles de préparation aux EDN (cours, référentiels R2C, annales).
 
-Les items correspondent au programme **R2C** (Réforme du 2e Cycle) en vigueur pour les EDN.
+Les items correspondent au programme **R2C** (Réforme du 2e Cycle) en vigueur pour les EDN lorsque l'application a été créée (2026).
 
 ---
 
