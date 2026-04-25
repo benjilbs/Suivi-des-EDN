@@ -10,12 +10,6 @@
 
 ---
 
-## 📸 Aperçu
-
-> _Screenshots à venir_
-
----
-
 ## 🎯 À propos
 
 **EDN Planner** est une application native macOS conçue pour les étudiants en médecine qui préparent les EDN (anciennement ECN). Elle permet de suivre sa progression sur les 367 items du programme R2C, d'organiser ses révisions selon un système de répétition espacée, et de planifier ses sessions de travail au quotidien.
