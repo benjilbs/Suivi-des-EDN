@@ -14,6 +14,8 @@
 
 **Suivi des EDN** est une application native macOS conçue pour les étudiants en médecine qui préparent les EDN. Elle permet de suivre sa progression sur les 367 items du programme R2C, d'organiser ses révisions selon un système de répétition espacée, et de planifier ses sessions de travail au quotidien.
 
+L'ajout des derniers fitlres arrive bientôt.
+
 Créé par Benjamin avec l'IA Claude
 
 ## ⬇️ Téléchargement
@@ -50,10 +52,11 @@ Créé par Benjamin avec l'IA Claude
 
 ### 🔍 Filtres & tri
 - Filtre **"Tous"** / **"À réviser"** (retard de révision + items flaggés manuellement)
-- **Filtres par spécialité** : UE11, Ortho-Traumato, MIR-URG, Gynéco-Obs, Thérapeutique, Rhumatologie, HGE, Oncologie
+- **Filtres par spécialité** : Ortho-Traumato, MIR-URG, Gynéco-Obs, Thérapeutique, Rhumatologie, HGE, Oncologie, le reste arrive prochainement.
 - **Tris** : par numéro, vus en premier, non vus, étoiles ↑↓, passages ↑↓, QCM ↑↓
 - **Recherche textuelle** (numéro, nom, mnémotechnique)
 - Mise en avant automatique des items prioritaires
+- PS: les filtres ne concerne pas le collège de référence mais plutôt dans quel collège peut-on trouver tel ou tel item.
 
 ### 📊 Dashboard
 - Salutation contextuelle selon l'heure
