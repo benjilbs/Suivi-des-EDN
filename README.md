@@ -16,6 +16,8 @@
 
 Créé par Benjamin avec l'IA Claude
 
+POUR INSTALLER L'APPLICATION, VOIR L'ONGLET RELEASE À DROITE.
+
 ---
 
 ## ✨ Fonctionnalités
