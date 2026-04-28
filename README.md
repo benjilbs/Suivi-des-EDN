@@ -1,7 +1,7 @@
 [README.md](https://github.com/user-attachments/files/27082051/README.md)
 # 📚 Suivi des EDN
 
-> Application macOS de suivi et de révision pour les EDN (Épreuves Dématérialisées Nationales).
+> Application GRATUITE macOS de suivi et de révision pour les EDN (Épreuves Dématérialisées Nationales).
 
 ![Platform](https://img.shields.io/badge/platform-macOS-blue)
 ![Swift](https://img.shields.io/badge/Swift-5.9%2B-orange)
