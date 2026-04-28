@@ -6,7 +6,6 @@
 ![Platform](https://img.shields.io/badge/platform-macOS-blue)
 ![Swift](https://img.shields.io/badge/Swift-5.9%2B-orange)
 ![SwiftUI](https://img.shields.io/badge/UI-SwiftUI-purple)
-![License](https://img.shields.io/badge/license-MIT-green)
 
 ---
 
