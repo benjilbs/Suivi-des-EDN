@@ -45,7 +45,6 @@ Créé par Benjamin avec l'IA Claude
 - Calcul automatique de la **prochaine date de révision** selon le niveau d'étoiles
 - **Intervalles configurables** par niveau (1★ à 5★) via une vue dédiée
 - Réinitialisation des intervalles aux valeurs par défaut
-- Nettoyage automatique des dates orphelines
 
 ### 🔍 Filtres & tri
 - Filtre **"Tous"** / **"À réviser"** (retard de révision + items flaggés manuellement)
@@ -119,8 +118,7 @@ Hésitez pas à me faire des retours si vous avez installé l'application. Mon i
 
 ## ⚠️ Avertissement
 
-Cette application est un **outil d'organisation personnelle**. Elle ne remplace pas les ressources officielles de préparation aux EDN (cours, référentiels R2C, annales).
-
+Cette application est un **outil d'organisation personnelle**. 
 Les items correspondent au programme **R2C** (Réforme du 2e Cycle) en vigueur pour les EDN lorsque l'application a été créée (2026).
 
 ---
