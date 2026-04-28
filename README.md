@@ -19,7 +19,7 @@ Créé par Benjamin avec l'IA Claude
 
 [**Télécharger Suivi des EDN v1.0**](https://github.com/benjilbs/Suivi-des-EDN/releases/tag/v1.0)
 
-> Dézipper et glisser SuividesEDN.app dans ton dossier Applications.
+> Dézipper et glisser SuividesEDN.app dans ton dossier Applications ou sur le bureau.
 
 ---
 
