@@ -38,7 +38,6 @@ Créé par Benjamin avec l'IA Claude
 - Notation de **1 à 5 étoiles** (manuelle ou automatique via score QCM)
 - Saisie d'un **score QCM (0–100%)** avec conversion automatique en étoiles
 - **Historique complet** des sessions QCM par item (date, score, étoiles)
-- Suppression d'une session QCM individuelle
 - Détection des items **"fragiles"** (ayant régressé dans leur historique d'étoiles)
 
 ### 🧠 Répétition espacée
