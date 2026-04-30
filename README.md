@@ -51,7 +51,7 @@ Créé par Benjamin avec l'IA Claude
 - **Tris** : par numéro, vus en premier, non vus, étoiles ↑↓, passages ↑↓, QCM ↑↓
 - **Recherche textuelle** (numéro, nom, mnémotechnique)
 - Mise en avant automatique des items prioritaires
-- PS: les filtres ne concerne pas le collège de référence mais plutôt dans quel collège peut-on trouver tel ou tel item.
+> PS: les filtres ne concerne pas le collège de référence mais plutôt dans quel collège peut-on trouver tel ou tel item.
 
 ### 📊 Dashboard
 - Salutation contextuelle selon l'heure
